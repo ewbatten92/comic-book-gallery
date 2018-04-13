@@ -1,0 +1,11 @@
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\bin\Debug\JSONParser1.exe.config
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\bin\Debug\JSONParser1.exe
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\bin\Debug\JSONParser1.pdb
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\obj\Debug\JSONParser1.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\obj\Debug\JSONParser1.Form1.resources
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\obj\Debug\JSONParser1.Properties.Resources.resources
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\obj\Debug\JSONParser1.csproj.GenerateResource.Cache
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\obj\Debug\JSONParser1.exe
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\obj\Debug\JSONParser1.pdb
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\JSONParser1\bin\Debug\Newtonsoft.Json.xml

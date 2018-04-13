@@ -1,0 +1,1 @@
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\YahooWeatherApi\bin\Debug\YahooWeatherApi.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\ConsoleApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\ConsoleApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Ethan\Source\Repos\comic-book-gallery\src\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
